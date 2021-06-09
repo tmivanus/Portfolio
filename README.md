@@ -1,2 +1,2 @@
 # Portfolio
-Personal projects and materials
+Personal projects and other materials
