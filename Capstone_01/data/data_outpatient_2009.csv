@@ -1,0 +1,1589 @@
+spec_code,spec_es,year,doc_code,n_visits,n_surgeries,n_patients
+22,anestesiologia y reanimacion,2009,16449291,53,1,61
+22,anestesiologia y reanimacion,2009,16606260,78,1,81
+22,anestesiologia y reanimacion,2009,66716838,7,1,6
+22,anestesiologia y reanimacion,2009,8682278,8,8,10
+120,cardiologia,2009,19188542,47,4,29
+120,cardiologia,2009,70079989,161,1,126
+120,cardiologia,2009,70115939,507,158,467
+120,cardiologia,2009,70557356,148,1,116
+120,cardiologia,2009,71593942,343,84,332
+120,cardiologia,2009,71622813,310,56,287
+120,cardiologia,2009,73085294,41,1,24
+130,cirugia cardiovascular,2009,8313225,33,4,30
+130,cirugia cardiovascular,2009,98543766,19,1,15
+130,cirugia cardiovascular,2009,8274072,108,6,67
+130,cirugia cardiovascular,2009,71630032,21,1,21
+130,cirugia cardiovascular,2009,70569576,10,1,15
+130,cirugia cardiovascular,2009,4326787,22,2,23
+130,cirugia cardiovascular,2009,19265996,9,1,9
+130,cirugia cardiovascular,2009,19111501,57,4,43
+131,cirugia de cabeza y cuello,2009,13438572,41,1,27
+131,cirugia de cabeza y cuello,2009,19298615,8,1,5
+131,cirugia de cabeza y cuello,2009,79140821,90,3,62
+132,ciurgia de la mama y tum. de tejidos bla,2009,79424675,93,4,57
+132,ciurgia de la mama y tum. de tejidos bla,2009,19364461,128,4,89
+132,ciurgia de la mama y tum. de tejidos bla,2009,19094945,57,3,52
+132,ciurgia de la mama y tum. de tejidos bla,2009,17138438,67,1,53
+132,ciurgia de la mama y tum. de tejidos bla,2009,10218770,148,2,76
+133,cirugia de la mano,2009,6775259,10,1,7
+133,cirugia de la mano,2009,70559878,207,63,197
+133,cirugia de la mano,2009,71577404,7,1,8
+133,cirugia de la mano,2009,7476268,1,8,10
+133,cirugia de la mano,2009,79456096,35,7,18
+133,cirugia de la mano,2009,71776362,44,10,38
+133,cirugia de la mano,2009,8280683,50,45,56
+133,cirugia de la mano,2009,8302507,20,4,19
+133,cirugia de la mano,2009,91265719,2,2,2
+133,cirugia de la mano,2009,5742557,33,2,25
+133,cirugia de la mano,2009,79577477,15,1,7
+133,cirugia de la mano,2009,4605824,50,8,54
+133,cirugia de la mano,2009,13841726,5,1,4
+133,cirugia de la mano,2009,19295653,95,3,62
+133,cirugia de la mano,2009,19193326,29,1,21
+133,cirugia de la mano,2009,19071821,6,3,7
+133,cirugia de la mano,2009,19066104,18,4,14
+133,cirugia de la mano,2009,17189819,12,4,11
+133,cirugia de la mano,2009,16743572,29,3,26
+133,cirugia de la mano,2009,16249850,6,1,6
+133,cirugia de la mano,2009,14967908,1,1,1
+133,cirugia de la mano,2009,35456454,39,1,20
+134,cirugia del torax,2009,70552257,4,1,3
+134,cirugia del torax,2009,3698352,14,1,18
+134,cirugia del torax,2009,19398142,2,1,3
+134,cirugia del torax,2009,16782830,1,1,2
+134,cirugia del torax,2009,70558456,81,26,86
+134,cirugia del torax,2009,13471213,13,1,7
+134,cirugia del torax,2009,16678878,14,3,16
+134,cirugia del torax,2009,86050033,7,1,8
+136,cirugia gastrointestinal,2009,79291559,113,2,91
+136,cirugia gastrointestinal,2009,16725975,53,1,46
+136,cirugia gastrointestinal,2009,13361988,28,2,28
+136,cirugia gastrointestinal,2009,10237279,23,1,70
+137,cirugia general,2009,70061744,42,4,46
+137,cirugia general,2009,73133886,78,20,61
+137,cirugia general,2009,73106602,25,2,30
+137,cirugia general,2009,73101677,7,8,15
+137,cirugia general,2009,72135907,1,1,9
+137,cirugia general,2009,71713152,34,7,40
+137,cirugia general,2009,71688257,71,8,67
+137,cirugia general,2009,71626684,5,2,6
+137,cirugia general,2009,71608755,15,2,49
+137,cirugia general,2009,71602586,17,2,22
+137,cirugia general,2009,71590228,109,1,102
+137,cirugia general,2009,71585021,3,3,6
+137,cirugia general,2009,71579618,52,4,42
+137,cirugia general,2009,70568173,62,15,55
+137,cirugia general,2009,70567144,660,84,788
+137,cirugia general,2009,70562573,16,6,18
+137,cirugia general,2009,70556781,5,3,8
+137,cirugia general,2009,70550783,20,4,21
+137,cirugia general,2009,70128240,112,14,102
+137,cirugia general,2009,70103039,355,27,282
+137,cirugia general,2009,70095086,71,12,72
+137,cirugia general,2009,70085724,32,5,42
+137,cirugia general,2009,70083125,23,5,25
+137,cirugia general,2009,70074018,49,9,38
+137,cirugia general,2009,70072944,22,4,24
+137,cirugia general,2009,70048242,120,146,299
+137,cirugia general,2009,7439490,55,2,41
+137,cirugia general,2009,70563698,51,8,60
+137,cirugia general,2009,7529349,93,4,110
+137,cirugia general,2009,8683317,86,14,87
+137,cirugia general,2009,79140069,10,3,13
+137,cirugia general,2009,98546407,75,30,77
+137,cirugia general,2009,70045824,13,3,14
+137,cirugia general,2009,98545255,17,2,17
+137,cirugia general,2009,98543791,161,14,200
+137,cirugia general,2009,98541749,76,3,65
+137,cirugia general,2009,9138466,70,7,69
+137,cirugia general,2009,9133814,5,1,3
+137,cirugia general,2009,91245876,8,2,10
+137,cirugia general,2009,91232149,1,1,3
+137,cirugia general,2009,91218370,7,1,7
+137,cirugia general,2009,9066153,7,1,8
+137,cirugia general,2009,9065569,174,12,169
+137,cirugia general,2009,8699665,10,1,10
+137,cirugia general,2009,84038008,22,4,38
+137,cirugia general,2009,8312111,44,8,79
+137,cirugia general,2009,8305612,26,4,35
+137,cirugia general,2009,8301519,6,3,13
+137,cirugia general,2009,8298422,4,2,6
+137,cirugia general,2009,8274156,91,16,74
+137,cirugia general,2009,8266232,29,5,31
+137,cirugia general,2009,8246157,21,6,23
+137,cirugia general,2009,8239896,7,4,9
+137,cirugia general,2009,79444260,10,1,19
+137,cirugia general,2009,79293792,63,32,56
+137,cirugia general,2009,79150331,67,3,38
+137,cirugia general,2009,79148015,49,5,44
+137,cirugia general,2009,79145485,3,1,2
+137,cirugia general,2009,78689767,46,2,56
+137,cirugia general,2009,6790146,14,3,18
+137,cirugia general,2009,17184237,24,3,22
+137,cirugia general,2009,6090580,36,1,31
+137,cirugia general,2009,16633182,16,4,16
+137,cirugia general,2009,6186538,58,3,55
+137,cirugia general,2009,16606535,3,2,8
+137,cirugia general,2009,16606517,88,7,60
+137,cirugia general,2009,16606274,36,3,40
+137,cirugia general,2009,16450997,4,1,6
+137,cirugia general,2009,15925134,2,3,7
+137,cirugia general,2009,14227764,30,2,30
+137,cirugia general,2009,13845630,57,1,57
+137,cirugia general,2009,13814337,1,1,19
+137,cirugia general,2009,13807994,7,2,8
+137,cirugia general,2009,13460133,13,4,24
+137,cirugia general,2009,16670594,45,5,41
+137,cirugia general,2009,13439059,47,2,43
+137,cirugia general,2009,12547671,9,2,7
+137,cirugia general,2009,10521939,2,3,2
+137,cirugia general,2009,10515586,17,3,19
+137,cirugia general,2009,10272197,18,2,23
+137,cirugia general,2009,10262766,13,4,19
+137,cirugia general,2009,10251566,36,2,67
+137,cirugia general,2009,10222990,10,2,9
+137,cirugia general,2009,10215405,14,1,14
+137,cirugia general,2009,10212213,130,1,79
+137,cirugia general,2009,10133684,12,1,11
+137,cirugia general,2009,10077690,8,1,6
+137,cirugia general,2009,10069460,43,1,36
+137,cirugia general,2009,13255619,54,4,51
+137,cirugia general,2009,16673119,12,2,12
+137,cirugia general,2009,16623709,57,5,76
+137,cirugia general,2009,17024027,24,2,21
+137,cirugia general,2009,6087991,10,3,9
+137,cirugia general,2009,6034654,49,3,34
+137,cirugia general,2009,5566699,2,1,2
+137,cirugia general,2009,49735077,2,1,1
+137,cirugia general,2009,4607558,67,4,64
+137,cirugia general,2009,45466150,10,2,7
+137,cirugia general,2009,4469997,38,2,32
+137,cirugia general,2009,42986891,116,4,69
+137,cirugia general,2009,3310975,55,7,39
+137,cirugia general,2009,32542347,7,3,14
+137,cirugia general,2009,16690666,86,5,73
+137,cirugia general,2009,31263501,19,1,19
+137,cirugia general,2009,31236793,5,1,6
+137,cirugia general,2009,31892910,12,2,12
+137,cirugia general,2009,19456386,43,4,36
+137,cirugia general,2009,17059333,6,1,6
+137,cirugia general,2009,19460491,77,2,66
+137,cirugia general,2009,19121993,42,2,30
+137,cirugia general,2009,19143019,6,1,8
+137,cirugia general,2009,19145274,14,6,14
+137,cirugia general,2009,19168176,40,4,32
+137,cirugia general,2009,19064334,19,1,35
+137,cirugia general,2009,19261535,17,2,18
+137,cirugia general,2009,19265995,38,3,47
+137,cirugia general,2009,19359786,4,1,3
+137,cirugia general,2009,19389006,19,2,17
+137,cirugia general,2009,19225332,56,7,42
+138,cirugia maxilofacial,2009,8301785,10,5,13
+138,cirugia maxilofacial,2009,10235347,25,17,34
+138,cirugia maxilofacial,2009,10273179,23,6,26
+138,cirugia maxilofacial,2009,19247333,174,3,140
+138,cirugia maxilofacial,2009,19255258,4,1,4
+138,cirugia maxilofacial,2009,32707732,42,7,37
+138,cirugia maxilofacial,2009,79145085,11,3,13
+139,cirugia oncologica,2009,16688874,21,9,15
+139,cirugia oncologica,2009,73146094,155,8,109
+139,cirugia oncologica,2009,16615137,159,36,130
+139,cirugia oncologica,2009,91226412,18,3,14
+139,cirugia oncologica,2009,14940602,110,24,70
+139,cirugia oncologica,2009,14993809,17,3,16
+142,cirugia pediatrica,2009,98554526,143,48,138
+142,cirugia pediatrica,2009,8732209,21,10,28
+142,cirugia pediatrica,2009,8699468,18,6,20
+142,cirugia pediatrica,2009,79230549,10,4,12
+142,cirugia pediatrica,2009,79150700,5,3,5
+142,cirugia pediatrica,2009,71651913,6,1,12
+142,cirugia pediatrica,2009,43741769,3,1,5
+142,cirugia pediatrica,2009,3781855,42,1,16
+142,cirugia pediatrica,2009,32461798,4,3,8
+142,cirugia pediatrica,2009,70121992,124,48,122
+142,cirugia pediatrica,2009,19204701,36,6,20
+142,cirugia pediatrica,2009,19099033,2,1,2
+142,cirugia pediatrica,2009,16677479,128,55,113
+142,cirugia pediatrica,2009,16619977,20,6,22
+142,cirugia pediatrica,2009,16276096,7,4,9
+142,cirugia pediatrica,2009,16262630,7,4,7
+142,cirugia pediatrica,2009,14211147,11,7,17
+142,cirugia pediatrica,2009,19265020,4,1,3
+143,cirugia plastica,2009,71662574,37,15,37
+143,cirugia plastica,2009,71642098,8,3,11
+143,cirugia plastica,2009,71624658,24,3,23
+143,cirugia plastica,2009,71602067,5,3,4
+143,cirugia plastica,2009,71595997,19,3,20
+143,cirugia plastica,2009,70112871,12,11,12
+143,cirugia plastica,2009,70556557,4,6,11
+143,cirugia plastica,2009,70549135,29,4,30
+143,cirugia plastica,2009,70320334,32,21,44
+143,cirugia plastica,2009,72125436,24,23,27
+143,cirugia plastica,2009,70561719,30,8,29
+143,cirugia plastica,2009,72140291,19,34,42
+143,cirugia plastica,2009,8684053,2,1,2
+143,cirugia plastica,2009,7444894,7,19,14
+143,cirugia plastica,2009,79370326,43,5,30
+143,cirugia plastica,2009,8238419,13,3,13
+143,cirugia plastica,2009,8242366,37,7,39
+143,cirugia plastica,2009,8296413,6,2,6
+143,cirugia plastica,2009,8303862,67,14,65
+143,cirugia plastica,2009,8352106,6,4,7
+143,cirugia plastica,2009,8671948,30,3,24
+143,cirugia plastica,2009,70103704,17,2,16
+143,cirugia plastica,2009,8691966,22,10,25
+143,cirugia plastica,2009,91104931,2,1,1
+143,cirugia plastica,2009,73070548,11,1,11
+143,cirugia plastica,2009,70057957,14,10,21
+143,cirugia plastica,2009,98563772,59,11,50
+143,cirugia plastica,2009,66809876,17,4,18
+143,cirugia plastica,2009,70049239,1,1,1
+143,cirugia plastica,2009,120050,4,2,5
+143,cirugia plastica,2009,13463063,1,3,6
+143,cirugia plastica,2009,13842185,4,1,3
+143,cirugia plastica,2009,13848358,12,1,8
+143,cirugia plastica,2009,15321335,9,4,10
+143,cirugia plastica,2009,16720237,4,3,6
+143,cirugia plastica,2009,17170068,9,2,8
+143,cirugia plastica,2009,19120998,22,3,22
+143,cirugia plastica,2009,19220256,3,2,3
+143,cirugia plastica,2009,19296936,6,1,8
+143,cirugia plastica,2009,10268929,11,1,12
+143,cirugia plastica,2009,2210831,28,6,23
+143,cirugia plastica,2009,24316804,21,11,21
+143,cirugia plastica,2009,24941153,8,6,10
+143,cirugia plastica,2009,31834941,13,2,13
+143,cirugia plastica,2009,3307257,2,3,2
+143,cirugia plastica,2009,42870766,2,1,3
+143,cirugia plastica,2009,43002370,26,1,25
+143,cirugia plastica,2009,43027842,36,7,35
+143,cirugia plastica,2009,43084575,6,33,29
+143,cirugia plastica,2009,51629397,11,1,12
+143,cirugia plastica,2009,51719146,14,5,13
+143,cirugia plastica,2009,19490904,9,4,11
+147,cirugia plastica oncologica,2009,8346243,33,9,37
+147,cirugia plastica oncologica,2009,79488386,5,5,9
+147,cirugia plastica oncologica,2009,79464694,17,10,18
+147,cirugia plastica oncologica,2009,70033556,25,3,24
+147,cirugia plastica oncologica,2009,32311544,28,16,29
+147,cirugia plastica oncologica,2009,16211499,34,4,29
+147,cirugia plastica oncologica,2009,14938958,8,3,10
+147,cirugia plastica oncologica,2009,16655249,66,9,63
+151,cirugia vascular periferica,2009,79153648,10,2,7
+151,cirugia vascular periferica,2009,7542101,28,4,27
+151,cirugia vascular periferica,2009,19467385,11,1,8
+151,cirugia vascular periferica,2009,30563506,130,11,115
+151,cirugia vascular periferica,2009,14952822,119,6,97
+151,cirugia vascular periferica,2009,19145010,42,2,28
+152,cirugia de columna,2009,8729552,32,10,35
+152,cirugia de columna,2009,72133814,30,1,21
+152,cirugia de columna,2009,19424904,70,1,53
+152,cirugia de columna,2009,19244859,116,4,61
+152,cirugia de columna,2009,19106839,103,4,51
+160,coloproctologia,2009,92500418,43,17,37
+160,coloproctologia,2009,79142637,84,5,62
+160,coloproctologia,2009,70569916,306,46,247
+160,coloproctologia,2009,19089830,87,8,59
+160,coloproctologia,2009,70115364,559,18,400
+160,coloproctologia,2009,110988,12,4,8
+160,coloproctologia,2009,17025187,35,5,36
+160,coloproctologia,2009,10255761,165,32,149
+200,dermatologia,2009,51859897,224,19,155
+200,dermatologia,2009,43554279,891,113,697
+200,dermatologia,2009,43558194,90,3,83
+200,dermatologia,2009,43721086,236,48,190
+200,dermatologia,2009,43727208,160,13,134
+200,dermatologia,2009,43728943,627,101,425
+200,dermatologia,2009,43731193,513,80,352
+200,dermatologia,2009,43733221,372,29,292
+200,dermatologia,2009,43735058,456,48,302
+200,dermatologia,2009,45434899,257,71,186
+200,dermatologia,2009,45448266,7,1,7
+200,dermatologia,2009,45453256,49,6,41
+200,dermatologia,2009,45505024,104,19,86
+200,dermatologia,2009,46661322,64,18,43
+200,dermatologia,2009,51612154,23,2,22
+200,dermatologia,2009,51646498,208,18,141
+200,dermatologia,2009,51665838,232,12,174
+200,dermatologia,2009,51688176,111,20,83
+200,dermatologia,2009,51716640,658,78,417
+200,dermatologia,2009,51773561,60,15,52
+200,dermatologia,2009,51837669,13,3,13
+200,dermatologia,2009,43524975,756,22,464
+200,dermatologia,2009,45457034,179,17,153
+200,dermatologia,2009,43516341,395,60,239
+200,dermatologia,2009,43515009,375,52,314
+200,dermatologia,2009,41677445,70,10,44
+200,dermatologia,2009,52008621,100,9,57
+200,dermatologia,2009,41713085,35,2,26
+200,dermatologia,2009,41781618,48,4,32
+200,dermatologia,2009,42089367,4,1,4
+200,dermatologia,2009,42775950,851,122,696
+200,dermatologia,2009,42821493,795,28,542
+200,dermatologia,2009,42823141,69,22,54
+200,dermatologia,2009,42865654,282,32,228
+200,dermatologia,2009,42868932,557,140,448
+200,dermatologia,2009,43522888,157,17,113
+200,dermatologia,2009,42881981,171,142,127
+200,dermatologia,2009,42888101,502,85,347
+200,dermatologia,2009,42890107,408,29,330
+200,dermatologia,2009,42891653,87,17,67
+200,dermatologia,2009,42898456,455,76,391
+200,dermatologia,2009,42966940,398,107,357
+200,dermatologia,2009,42982995,261,39,210
+200,dermatologia,2009,43045426,323,44,241
+200,dermatologia,2009,43066435,264,70,198
+200,dermatologia,2009,43085910,371,66,297
+200,dermatologia,2009,43097584,589,109,468
+200,dermatologia,2009,42882604,492,61,372
+200,dermatologia,2009,52150005,37,4,31
+200,dermatologia,2009,41509615,36,2,28
+200,dermatologia,2009,60340320,101,15,90
+200,dermatologia,2009,80412124,41,4,23
+200,dermatologia,2009,80503253,137,19,113
+200,dermatologia,2009,8211053,369,33,287
+200,dermatologia,2009,8251476,493,45,412
+200,dermatologia,2009,8305669,15,1,14
+200,dermatologia,2009,8313955,271,59,233
+200,dermatologia,2009,8667612,85,13,76
+200,dermatologia,2009,8728452,65,12,48
+200,dermatologia,2009,8731441,504,65,348
+200,dermatologia,2009,8739875,122,17,74
+200,dermatologia,2009,9037369,119,23,116
+200,dermatologia,2009,9074420,108,9,93
+200,dermatologia,2009,9076732,219,37,166
+200,dermatologia,2009,9092087,28,5,27
+200,dermatologia,2009,91200400,65,4,46
+200,dermatologia,2009,91202151,251,25,131
+200,dermatologia,2009,91220584,259,7,193
+200,dermatologia,2009,91299506,373,129,252
+200,dermatologia,2009,9305517,279,23,226
+200,dermatologia,2009,41585372,42,2,33
+200,dermatologia,2009,98550145,374,53,308
+200,dermatologia,2009,79568540,331,74,260
+200,dermatologia,2009,79485642,91,10,58
+200,dermatologia,2009,79464457,371,24,251
+200,dermatologia,2009,79307971,95,28,83
+200,dermatologia,2009,63345662,3,1,3
+200,dermatologia,2009,64575356,27,9,24
+200,dermatologia,2009,6496556,51,9,46
+200,dermatologia,2009,66764844,69,20,62
+200,dermatologia,2009,66859548,179,30,139
+200,dermatologia,2009,66986338,66,2,59
+200,dermatologia,2009,6768097,86,20,60
+200,dermatologia,2009,70127368,413,77,371
+200,dermatologia,2009,70560798,159,11,149
+200,dermatologia,2009,71578919,459,168,342
+200,dermatologia,2009,52265784,11,3,7
+200,dermatologia,2009,71610323,695,43,552
+200,dermatologia,2009,71653425,363,29,233
+200,dermatologia,2009,71694707,1428,88,1043
+200,dermatologia,2009,73072498,176,41,150
+200,dermatologia,2009,73088424,75,15,62
+200,dermatologia,2009,73097470,221,49,156
+200,dermatologia,2009,73104922,82,39,59
+200,dermatologia,2009,73124611,242,49,200
+200,dermatologia,2009,73139983,76,25,71
+200,dermatologia,2009,73150068,51,13,39
+200,dermatologia,2009,7552224,36,5,32
+200,dermatologia,2009,71635174,161,49,133
+200,dermatologia,2009,41494895,794,205,531
+200,dermatologia,2009,4003058,68,7,63
+200,dermatologia,2009,39777322,61,5,51
+200,dermatologia,2009,19291337,55,4,44
+200,dermatologia,2009,19474887,94,16,78
+200,dermatologia,2009,19488514,280,28,251
+200,dermatologia,2009,21070680,150,24,118
+200,dermatologia,2009,21353139,156,43,121
+200,dermatologia,2009,22578973,68,2,53
+200,dermatologia,2009,24325072,174,23,146
+200,dermatologia,2009,24369240,7,2,6
+200,dermatologia,2009,26759488,13,7,17
+200,dermatologia,2009,29305642,162,29,138
+200,dermatologia,2009,30281070,179,6,151
+200,dermatologia,2009,30288381,19,1,18
+200,dermatologia,2009,30288710,255,24,206
+200,dermatologia,2009,30306610,7,1,7
+200,dermatologia,2009,30396391,4,1,4
+200,dermatologia,2009,30560604,15,1,13
+200,dermatologia,2009,30769946,100,22,88
+200,dermatologia,2009,31147794,388,37,305
+200,dermatologia,2009,31151590,111,34,91
+200,dermatologia,2009,31165947,15,5,16
+200,dermatologia,2009,31169008,505,71,420
+200,dermatologia,2009,19108331,46,5,34
+200,dermatologia,2009,31396903,81,23,77
+200,dermatologia,2009,18387039,36,5,30
+200,dermatologia,2009,16752063,675,84,572
+200,dermatologia,2009,10216654,29,2,26
+200,dermatologia,2009,10240772,39,10,43
+200,dermatologia,2009,10249091,17,3,17
+200,dermatologia,2009,10251555,126,28,108
+200,dermatologia,2009,10517612,118,5,105
+200,dermatologia,2009,12126734,41,12,32
+200,dermatologia,2009,13235631,40,10,35
+200,dermatologia,2009,13351145,42,8,36
+200,dermatologia,2009,13816730,29,8,29
+200,dermatologia,2009,14224648,102,18,90
+200,dermatologia,2009,14872470,6,1,7
+200,dermatologia,2009,14877852,7,2,6
+200,dermatologia,2009,14985631,414,88,318
+200,dermatologia,2009,15039480,59,11,59
+200,dermatologia,2009,15531163,798,163,590
+200,dermatologia,2009,16352871,44,7,35
+200,dermatologia,2009,16607090,224,22,124
+200,dermatologia,2009,16609532,130,35,83
+200,dermatologia,2009,16645787,16,8,18
+200,dermatologia,2009,16676164,80,11,70
+200,dermatologia,2009,16693159,333,63,268
+200,dermatologia,2009,16760304,146,10,120
+200,dermatologia,2009,31418638,118,36,98
+200,dermatologia,2009,31839645,16,2,15
+200,dermatologia,2009,31851791,273,105,230
+200,dermatologia,2009,3291630,5,2,5
+200,dermatologia,2009,3310893,277,43,218
+200,dermatologia,2009,33151413,23,3,24
+200,dermatologia,2009,3332038,60,3,43
+200,dermatologia,2009,34530614,13,2,10
+200,dermatologia,2009,34533194,52,4,39
+200,dermatologia,2009,34959252,98,9,61
+200,dermatologia,2009,34966500,573,72,336
+200,dermatologia,2009,35466060,151,9,111
+200,dermatologia,2009,32774873,46,4,34
+200,dermatologia,2009,35469359,181,8,107
+200,dermatologia,2009,36538728,49,4,37
+200,dermatologia,2009,37807122,13,5,15
+200,dermatologia,2009,37825401,232,23,196
+200,dermatologia,2009,3795456,17,2,9
+200,dermatologia,2009,38436904,324,48,267
+200,dermatologia,2009,38868539,118,46,83
+200,dermatologia,2009,3934131,28,5,27
+200,dermatologia,2009,39682468,63,7,56
+200,dermatologia,2009,39686355,53,9,46
+200,dermatologia,2009,35469513,159,6,122
+200,dermatologia,2009,32739477,30,9,27
+200,dermatologia,2009,32702614,329,64,237
+200,dermatologia,2009,32448616,345,46,297
+200,dermatologia,2009,31879146,336,49,236
+200,dermatologia,2009,31932678,132,21,102
+200,dermatologia,2009,31969752,23,3,23
+200,dermatologia,2009,31984399,266,45,162
+200,dermatologia,2009,32079902,267,26,222
+200,dermatologia,2009,3228413,136,12,105
+200,dermatologia,2009,32331396,731,35,491
+200,dermatologia,2009,32395889,1231,163,931
+200,dermatologia,2009,32695103,188,28,149
+200,dermatologia,2009,31872165,120,36,108
+200,dermatologia,2009,32462256,427,2,294
+200,dermatologia,2009,32490181,301,13,268
+200,dermatologia,2009,32527780,51,14,47
+200,dermatologia,2009,32532772,278,38,251
+200,dermatologia,2009,32620350,30,1,25
+200,dermatologia,2009,32655979,20,5,16
+200,dermatologia,2009,32656086,505,79,394
+200,dermatologia,2009,32659430,539,76,383
+200,dermatologia,2009,32667282,354,38,298
+200,dermatologia,2009,32667784,20,2,17
+200,dermatologia,2009,32477453,249,48,215
+200,dermatologia,2009,31852287,194,2,143
+201,dermatologia oncologica,2009,80410654,19,3,13
+202,dermatologia pediatrica,2009,22428983,107,15,88
+211,cardiologia electrofisiologia,2009,3764288,16,6,16
+212,cuidado paleativo y dolor,2009,79506231,32,4,18
+212,cuidado paleativo y dolor,2009,19261066,9,3,10
+240,endocrinologia,2009,16632800,105,5,61
+241,endocrinologia pediatrica,2009,71639089,771,2,500
+280,estomatologia pediatrica,2009,98542751,91,21,82
+310,gastroenterologia,2009,79159319,29,2,29
+310,gastroenterologia,2009,92498172,198,1,206
+310,gastroenterologia,2009,91225966,33,2,45
+310,gastroenterologia,2009,91206044,44,1,55
+310,gastroenterologia,2009,8689964,206,2,210
+310,gastroenterologia,2009,8685128,16,1,25
+310,gastroenterologia,2009,8231420,389,5,362
+310,gastroenterologia,2009,79569554,379,2,313
+310,gastroenterologia,2009,71604098,236,8,199
+310,gastroenterologia,2009,70506498,592,1,418
+310,gastroenterologia,2009,3744932,85,6,86
+310,gastroenterologia,2009,19078902,60,1,59
+310,gastroenterologia,2009,17031055,123,6,124
+310,gastroenterologia,2009,14228364,81,1,76
+310,gastroenterologia,2009,10234203,32,2,40
+310,gastroenterologia,2009,71578969,283,3,225
+312,gastroenterologia pediatrica,2009,13436672,192,2,115
+340,ginecologia oncologica,2009,6889566,30,1,32
+340,ginecologia oncologica,2009,43556573,62,4,43
+340,ginecologia oncologica,2009,70552270,347,8,274
+340,ginecologia oncologica,2009,17180543,169,7,121
+340,ginecologia oncologica,2009,71605830,338,32,309
+340,ginecologia oncologica,2009,39684812,227,2,204
+340,ginecologia oncologica,2009,79142727,137,5,79
+340,ginecologia oncologica,2009,71595417,118,13,99
+340,ginecologia oncologica,2009,19168642,98,4,64
+340,ginecologia oncologica,2009,32534739,1095,28,1025
+340,ginecologia oncologica,2009,16600815,12,1,10
+340,ginecologia oncologica,2009,13484200,154,9,120
+340,ginecologia oncologica,2009,10225110,114,10,109
+341,ginecologia y obstetricia,2009,6075101,3,1,2
+341,ginecologia y obstetricia,2009,70103705,92,1,62
+341,ginecologia y obstetricia,2009,70103589,113,2,80
+341,ginecologia y obstetricia,2009,70093792,53,2,45
+341,ginecologia y obstetricia,2009,70088202,42,2,32
+341,ginecologia y obstetricia,2009,70075110,274,8,178
+341,ginecologia y obstetricia,2009,70036122,336,9,250
+341,ginecologia y obstetricia,2009,70127157,201,32,297
+341,ginecologia y obstetricia,2009,6893611,18,3,17
+341,ginecologia y obstetricia,2009,6784103,149,3,145
+341,ginecologia y obstetricia,2009,63302101,56,1,31
+341,ginecologia y obstetricia,2009,6287354,49,1,34
+341,ginecologia y obstetricia,2009,70064295,40,3,32
+341,ginecologia y obstetricia,2009,70128760,180,11,79
+341,ginecologia y obstetricia,2009,70569559,196,3,169
+341,ginecologia y obstetricia,2009,70560557,364,8,319
+341,ginecologia y obstetricia,2009,70509654,340,4,247
+341,ginecologia y obstetricia,2009,70546491,178,2,107
+341,ginecologia y obstetricia,2009,70548899,39,2,24
+341,ginecologia y obstetricia,2009,70551066,105,2,115
+341,ginecologia y obstetricia,2009,70551286,509,15,366
+341,ginecologia y obstetricia,2009,70555872,36,4,25
+341,ginecologia y obstetricia,2009,70557952,532,13,529
+341,ginecologia y obstetricia,2009,70560367,473,8,364
+341,ginecologia y obstetricia,2009,70565056,472,18,270
+341,ginecologia y obstetricia,2009,70564553,188,2,149
+341,ginecologia y obstetricia,2009,70563663,42,5,30
+341,ginecologia y obstetricia,2009,70562707,145,4,127
+341,ginecologia y obstetricia,2009,70506034,425,37,436
+341,ginecologia y obstetricia,2009,6075100,46,3,38
+341,ginecologia y obstetricia,2009,71580394,338,12,224
+341,ginecologia y obstetricia,2009,5764798,32,1,12
+341,ginecologia y obstetricia,2009,35498993,85,1,46
+341,ginecologia y obstetricia,2009,3620576,85,1,64
+341,ginecologia y obstetricia,2009,37230572,41,1,15
+341,ginecologia y obstetricia,2009,37830912,175,5,123
+341,ginecologia y obstetricia,2009,3794377,115,1,50
+341,ginecologia y obstetricia,2009,38439469,259,2,142
+341,ginecologia y obstetricia,2009,41527466,96,6,48
+341,ginecologia y obstetricia,2009,41650124,182,1,131
+341,ginecologia y obstetricia,2009,42094171,130,1,92
+341,ginecologia y obstetricia,2009,42752608,724,25,512
+341,ginecologia y obstetricia,2009,42888169,151,2,107
+341,ginecologia y obstetricia,2009,42888439,618,6,495
+341,ginecologia y obstetricia,2009,42897032,380,21,305
+341,ginecologia y obstetricia,2009,5882826,37,1,12
+341,ginecologia y obstetricia,2009,42973666,348,9,278
+341,ginecologia y obstetricia,2009,43511203,443,7,367
+341,ginecologia y obstetricia,2009,43556614,507,70,467
+341,ginecologia y obstetricia,2009,43561626,137,4,113
+341,ginecologia y obstetricia,2009,43721116,424,15,347
+341,ginecologia y obstetricia,2009,45466760,24,5,23
+341,ginecologia y obstetricia,2009,45762237,403,4,189
+341,ginecologia y obstetricia,2009,504340,104,1,93
+341,ginecologia y obstetricia,2009,504510,65,1,45
+341,ginecologia y obstetricia,2009,51633705,58,4,28
+341,ginecologia y obstetricia,2009,51665693,223,2,81
+341,ginecologia y obstetricia,2009,51855967,209,13,152
+341,ginecologia y obstetricia,2009,51858738,72,1,36
+341,ginecologia y obstetricia,2009,5565146,41,2,31
+341,ginecologia y obstetricia,2009,43060378,559,6,437
+341,ginecologia y obstetricia,2009,42989133,536,16,424
+341,ginecologia y obstetricia,2009,19129025,224,10,157
+341,ginecologia y obstetricia,2009,71599652,28,2,26
+341,ginecologia y obstetricia,2009,8344614,42,4,35
+341,ginecologia y obstetricia,2009,8352938,123,5,95
+341,ginecologia y obstetricia,2009,8667328,36,2,25
+341,ginecologia y obstetricia,2009,8673640,178,10,113
+341,ginecologia y obstetricia,2009,8682015,42,1,24
+341,ginecologia y obstetricia,2009,8684478,60,1,36
+341,ginecologia y obstetricia,2009,8691051,126,3,63
+341,ginecologia y obstetricia,2009,8701152,414,21,248
+341,ginecologia y obstetricia,2009,8718515,80,3,28
+341,ginecologia y obstetricia,2009,8719643,26,10,39
+341,ginecologia y obstetricia,2009,8727046,209,6,132
+341,ginecologia y obstetricia,2009,9053006,143,3,86
+341,ginecologia y obstetricia,2009,9073030,21,1,58
+341,ginecologia y obstetricia,2009,8319154,586,33,471
+341,ginecologia y obstetricia,2009,9074037,45,4,43
+341,ginecologia y obstetricia,2009,9083524,26,1,12
+341,ginecologia y obstetricia,2009,91223412,71,2,55
+341,ginecologia y obstetricia,2009,91230980,104,2,75
+341,ginecologia y obstetricia,2009,9171369,25,1,13
+341,ginecologia y obstetricia,2009,92551172,22,3,45
+341,ginecologia y obstetricia,2009,9265668,3,2,6
+341,ginecologia y obstetricia,2009,9314860,25,3,12
+341,ginecologia y obstetricia,2009,3353970,95,2,67
+341,ginecologia y obstetricia,2009,93361219,2,1,2
+341,ginecologia y obstetricia,2009,9525414,73,2,44
+341,ginecologia y obstetricia,2009,98544578,89,7,66
+341,ginecologia y obstetricia,2009,98546073,126,7,89
+341,ginecologia y obstetricia,2009,98547728,68,17,65
+341,ginecologia y obstetricia,2009,9078583,4,2,8
+341,ginecologia y obstetricia,2009,71594222,26,1,17
+341,ginecologia y obstetricia,2009,8315073,107,2,76
+341,ginecologia y obstetricia,2009,8273833,74,7,59
+341,ginecologia y obstetricia,2009,71608555,44,1,30
+341,ginecologia y obstetricia,2009,71614302,13,2,20
+341,ginecologia y obstetricia,2009,71624335,359,3,346
+341,ginecologia y obstetricia,2009,71640522,162,1,93
+341,ginecologia y obstetricia,2009,71652562,47,3,35
+341,ginecologia y obstetricia,2009,71659145,47,4,40
+341,ginecologia y obstetricia,2009,71665805,10,2,8
+341,ginecologia y obstetricia,2009,71682271,451,4,363
+341,ginecologia y obstetricia,2009,71685244,34,4,28
+341,ginecologia y obstetricia,2009,72139665,64,9,29
+341,ginecologia y obstetricia,2009,72143661,105,2,62
+341,ginecologia y obstetricia,2009,73077121,217,4,138
+341,ginecologia y obstetricia,2009,73078255,79,5,40
+341,ginecologia y obstetricia,2009,8281511,226,8,167
+341,ginecologia y obstetricia,2009,73079486,149,2,89
+341,ginecologia y obstetricia,2009,7548174,97,3,64
+341,ginecologia y obstetricia,2009,79140105,94,4,70
+341,ginecologia y obstetricia,2009,79142631,41,4,14
+341,ginecologia y obstetricia,2009,79143156,9,1,10
+341,ginecologia y obstetricia,2009,79149503,286,19,288
+341,ginecologia y obstetricia,2009,79152223,140,2,101
+341,ginecologia y obstetricia,2009,79153437,12,1,11
+341,ginecologia y obstetricia,2009,79230806,166,1,77
+341,ginecologia y obstetricia,2009,79340590,131,2,82
+341,ginecologia y obstetricia,2009,79386033,179,7,82
+341,ginecologia y obstetricia,2009,79391172,12,1,8
+341,ginecologia y obstetricia,2009,80407905,97,1,80
+341,ginecologia y obstetricia,2009,80412237,11,4,48
+341,ginecologia y obstetricia,2009,73082861,27,1,14
+341,ginecologia y obstetricia,2009,3347992,29,2,28
+341,ginecologia y obstetricia,2009,17073519,564,5,474
+341,ginecologia y obstetricia,2009,32734890,114,2,53
+341,ginecologia y obstetricia,2009,16581918,41,3,27
+341,ginecologia y obstetricia,2009,16584381,136,6,88
+341,ginecologia y obstetricia,2009,16585250,80,7,48
+341,ginecologia y obstetricia,2009,16604492,225,20,89
+341,ginecologia y obstetricia,2009,16605040,381,25,241
+341,ginecologia y obstetricia,2009,16608085,174,15,129
+341,ginecologia y obstetricia,2009,16627595,124,2,60
+341,ginecologia y obstetricia,2009,16630709,349,35,272
+341,ginecologia y obstetricia,2009,16653121,45,1,37
+341,ginecologia y obstetricia,2009,16657107,5,2,6
+341,ginecologia y obstetricia,2009,16668753,37,3,29
+341,ginecologia y obstetricia,2009,16672070,26,2,21
+341,ginecologia y obstetricia,2009,16683918,70,6,51
+341,ginecologia y obstetricia,2009,16685074,24,1,16
+341,ginecologia y obstetricia,2009,16692836,172,9,124
+341,ginecologia y obstetricia,2009,16724603,93,25,72
+341,ginecologia y obstetricia,2009,16744770,18,6,17
+341,ginecologia y obstetricia,2009,16749671,67,3,39
+341,ginecologia y obstetricia,2009,16767144,1,1,3
+341,ginecologia y obstetricia,2009,17070755,33,2,27
+341,ginecologia y obstetricia,2009,98558565,26,8,26
+341,ginecologia y obstetricia,2009,17185147,17,1,14
+341,ginecologia y obstetricia,2009,19065309,43,1,16
+341,ginecologia y obstetricia,2009,3340302,306,1,196
+341,ginecologia y obstetricia,2009,19188008,12,3,10
+341,ginecologia y obstetricia,2009,16447403,51,4,29
+341,ginecologia y obstetricia,2009,15606520,75,1,46
+341,ginecologia y obstetricia,2009,15039257,20,1,14
+341,ginecologia y obstetricia,2009,14969350,147,2,84
+341,ginecologia y obstetricia,2009,10101457,48,7,46
+341,ginecologia y obstetricia,2009,10138771,11,2,12
+341,ginecologia y obstetricia,2009,10144896,101,6,51
+341,ginecologia y obstetricia,2009,10217980,16,1,17
+341,ginecologia y obstetricia,2009,10242517,219,8,178
+341,ginecologia y obstetricia,2009,10253577,116,3,78
+341,ginecologia y obstetricia,2009,10527507,111,6,112
+341,ginecologia y obstetricia,2009,10528930,431,34,313
+341,ginecologia y obstetricia,2009,10529704,60,3,56
+341,ginecologia y obstetricia,2009,11057535,4,1,4
+341,ginecologia y obstetricia,2009,118675,2,2,2
+341,ginecologia y obstetricia,2009,12122694,55,1,38
+341,ginecologia y obstetricia,2009,19205045,113,1,41
+341,ginecologia y obstetricia,2009,1238031,23,2,20
+341,ginecologia y obstetricia,2009,12970012,146,4,102
+341,ginecologia y obstetricia,2009,13230502,118,1,91
+341,ginecologia y obstetricia,2009,13259338,101,1,66
+341,ginecologia y obstetricia,2009,13444863,288,2,205
+341,ginecologia y obstetricia,2009,13815398,11,2,5
+341,ginecologia y obstetricia,2009,13832986,52,2,35
+341,ginecologia y obstetricia,2009,13841788,15,1,11
+341,ginecologia y obstetricia,2009,14236434,44,2,37
+341,ginecologia y obstetricia,2009,14238017,11,1,10
+341,ginecologia y obstetricia,2009,14444314,40,3,26
+341,ginecologia y obstetricia,2009,14444968,132,12,123
+341,ginecologia y obstetricia,2009,14953824,69,10,49
+341,ginecologia y obstetricia,2009,12530321,10,1,8
+341,ginecologia y obstetricia,2009,19205962,134,2,70
+341,ginecologia y obstetricia,2009,19186524,122,2,72
+341,ginecologia y obstetricia,2009,19219068,152,1,42
+341,ginecologia y obstetricia,2009,31893862,45,1,24
+341,ginecologia y obstetricia,2009,31898251,313,20,257
+341,ginecologia y obstetricia,2009,19217085,246,9,87
+341,ginecologia y obstetricia,2009,31929149,64,3,43
+341,ginecologia y obstetricia,2009,31943168,232,7,176
+341,ginecologia y obstetricia,2009,3194892,206,2,99
+341,ginecologia y obstetricia,2009,31989737,206,15,153
+341,ginecologia y obstetricia,2009,3228442,71,3,35
+341,ginecologia y obstetricia,2009,3229184,155,2,101
+341,ginecologia y obstetricia,2009,32422904,574,9,421
+341,ginecologia y obstetricia,2009,32447187,86,1,56
+341,ginecologia y obstetricia,2009,32466227,260,2,231
+341,ginecologia y obstetricia,2009,31892509,79,4,54
+341,ginecologia y obstetricia,2009,32471658,81,3,57
+341,ginecologia y obstetricia,2009,32512815,104,2,90
+341,ginecologia y obstetricia,2009,32521242,404,10,362
+341,ginecologia y obstetricia,2009,32525000,197,9,142
+341,ginecologia y obstetricia,2009,32526004,254,8,197
+341,ginecologia y obstetricia,2009,32531910,771,19,672
+341,ginecologia y obstetricia,2009,32639024,565,15,408
+341,ginecologia y obstetricia,2009,32639760,47,1,37
+341,ginecologia y obstetricia,2009,32655983,120,6,89
+341,ginecologia y obstetricia,2009,32676458,95,5,36
+341,ginecologia y obstetricia,2009,32678654,433,21,260
+341,ginecologia y obstetricia,2009,32703859,202,7,82
+341,ginecologia y obstetricia,2009,32720599,103,1,59
+341,ginecologia y obstetricia,2009,32487977,217,3,191
+341,ginecologia y obstetricia,2009,31854568,286,13,208
+341,ginecologia y obstetricia,2009,31898321,33,2,24
+341,ginecologia y obstetricia,2009,31401131,74,1,55
+341,ginecologia y obstetricia,2009,19220421,24,2,18
+341,ginecologia y obstetricia,2009,19233740,47,1,32
+341,ginecologia y obstetricia,2009,19247286,64,1,45
+341,ginecologia y obstetricia,2009,19345869,20,1,17
+341,ginecologia y obstetricia,2009,19347777,13,1,7
+341,ginecologia y obstetricia,2009,19351821,14,1,11
+341,ginecologia y obstetricia,2009,19370448,257,8,161
+341,ginecologia y obstetricia,2009,19390450,143,6,57
+341,ginecologia y obstetricia,2009,31839788,226,9,157
+341,ginecologia y obstetricia,2009,19450598,159,4,95
+341,ginecologia y obstetricia,2009,19459433,35,1,23
+341,ginecologia y obstetricia,2009,19466225,58,1,36
+341,ginecologia y obstetricia,2009,20286136,198,3,116
+341,ginecologia y obstetricia,2009,19423695,39,2,13
+341,ginecologia y obstetricia,2009,22433404,166,9,116
+341,ginecologia y obstetricia,2009,31241467,128,7,83
+341,ginecologia y obstetricia,2009,21765872,313,16,238
+341,ginecologia y obstetricia,2009,30764431,18,2,11
+341,ginecologia y obstetricia,2009,30280571,75,2,63
+341,ginecologia y obstetricia,2009,30280142,47,1,43
+341,ginecologia y obstetricia,2009,31200444,59,1,47
+341,ginecologia y obstetricia,2009,25268941,84,3,65
+341,ginecologia y obstetricia,2009,25264590,50,1,35
+341,ginecologia y obstetricia,2009,24569234,40,4,25
+341,ginecologia y obstetricia,2009,24313780,279,14,233
+341,ginecologia y obstetricia,2009,22528578,70,11,73
+341,ginecologia y obstetricia,2009,2756400,45,2,29
+342,ginecologia laparoscopica,2009,71578770,68,11,74
+343,ginecologia y endocrinologia,2009,8220377,156,4,96
+343,ginecologia y endocrinologia,2009,16609462,233,7,165
+343,ginecologia y endocrinologia,2009,16446699,15,1,8
+344,ginecologia,2009,51959852,29,1,18
+344,ginecologia,2009,31226273,78,4,51
+350,hemato oncologia,2009,72135614,23,4,42
+350,hemato oncologia,2009,73087127,23,7,25
+350,hemato oncologia,2009,41472312,36,1,19
+350,hemato oncologia,2009,8212103,41,2,29
+350,hemato oncologia,2009,16209561,93,1,59
+350,hemato oncologia,2009,8722308,137,6,97
+351,hematologia,2009,71717384,127,1,62
+355,hematologia pediatrica,2009,31288302,31,1,10
+387,medicina interna,2009,10520445,107,1,60
+387,medicina interna,2009,8703885,99,1,68
+387,medicina interna,2009,8703470,58,4,46
+389,adolescencia,2009,19384756,32,1,14
+390,fisiatria,2009,8691137,66,1,125
+430,neumologia,2009,22397501,216,3,167
+431,neumologia pediatrica,2009,8295737,377,2,176
+440,neurocirugia,2009,16643587,39,4,29
+440,neurocirugia,2009,71631592,79,2,78
+440,neurocirugia,2009,71590535,314,7,231
+440,neurocirugia,2009,70122702,100,18,109
+440,neurocirugia,2009,6874240,137,1,108
+440,neurocirugia,2009,79145654,52,1,36
+440,neurocirugia,2009,14977601,170,7,112
+440,neurocirugia,2009,14878292,54,1,49
+440,neurocirugia,2009,10270212,33,1,26
+440,neurocirugia,2009,71645270,51,1,41
+440,neurocirugia,2009,8290678,75,2,59
+440,neurocirugia,2009,94370315,1,1,1
+440,neurocirugia,2009,13436406,23,2,24
+440,neurocirugia,2009,72170178,85,1,63
+442,neurologia pediatrica,2009,11385577,179,1,120
+444,neurocirugia pediatrica,2009,10232107,16,4,14
+444,neurocirugia pediatrica,2009,16693105,33,9,24
+444,neurocirugia pediatrica,2009,19474699,78,21,67
+444,neurocirugia pediatrica,2009,73080549,37,4,33
+444,neurocirugia pediatrica,2009,6078375,12,2,7
+465,vascular periferico,2009,16450304,24,1,21
+465,vascular periferico,2009,16765900,198,25,126
+465,vascular periferico,2009,19072502,67,4,53
+465,vascular periferico,2009,19154397,2,1,2
+465,vascular periferico,2009,19459256,44,1,27
+465,vascular periferico,2009,8706360,120,4,100
+465,vascular periferico,2009,13844369,28,1,27
+465,vascular periferico,2009,8279514,176,10,98
+465,vascular periferico,2009,71650447,120,11,94
+465,vascular periferico,2009,7452811,80,5,64
+465,vascular periferico,2009,79144268,52,1,51
+465,vascular periferico,2009,8243692,101,15,114
+465,vascular periferico,2009,71634332,689,28,377
+480,oftalmologia,2009,70103032,52,5,42
+480,oftalmologia,2009,70554187,105,5,99
+480,oftalmologia,2009,70551092,170,3,163
+480,oftalmologia,2009,70508082,221,18,196
+480,oftalmologia,2009,70506728,30,3,29
+480,oftalmologia,2009,70118727,39,4,37
+480,oftalmologia,2009,70120794,74,3,67
+480,oftalmologia,2009,70554597,291,18,261
+480,oftalmologia,2009,70108249,421,38,371
+480,oftalmologia,2009,70103954,104,5,93
+480,oftalmologia,2009,70503173,567,51,505
+480,oftalmologia,2009,70555084,194,4,156
+480,oftalmologia,2009,70557401,20,2,17
+480,oftalmologia,2009,70557355,156,8,150
+480,oftalmologia,2009,70560382,535,116,432
+480,oftalmologia,2009,70561277,47,6,44
+480,oftalmologia,2009,70562226,389,17,344
+480,oftalmologia,2009,70563812,345,13,294
+480,oftalmologia,2009,70564427,154,15,142
+480,oftalmologia,2009,70568213,224,20,208
+480,oftalmologia,2009,70569545,380,29,336
+480,oftalmologia,2009,71555630,43,27,55
+480,oftalmologia,2009,71577198,41,3,43
+480,oftalmologia,2009,70556644,184,9,166
+480,oftalmologia,2009,70103030,309,15,282
+480,oftalmologia,2009,5558517,27,3,27
+480,oftalmologia,2009,70100994,228,20,215
+480,oftalmologia,2009,43741352,28,4,25
+480,oftalmologia,2009,45435010,66,2,58
+480,oftalmologia,2009,4606391,33,1,32
+480,oftalmologia,2009,51628141,51,1,33
+480,oftalmologia,2009,51702638,413,30,336
+480,oftalmologia,2009,52343917,69,1,51
+480,oftalmologia,2009,52415975,8,20,26
+480,oftalmologia,2009,55154846,5,1,6
+480,oftalmologia,2009,71604730,523,41,441
+480,oftalmologia,2009,5966873,9,1,8
+480,oftalmologia,2009,6069595,40,1,39
+480,oftalmologia,2009,70102227,60,7,57
+480,oftalmologia,2009,63275189,31,4,25
+480,oftalmologia,2009,63328968,13,1,13
+480,oftalmologia,2009,6492620,101,12,94
+480,oftalmologia,2009,66815143,37,1,28
+480,oftalmologia,2009,6871967,54,4,34
+480,oftalmologia,2009,70040806,173,6,146
+480,oftalmologia,2009,70040827,97,9,92
+480,oftalmologia,2009,70042105,31,2,30
+480,oftalmologia,2009,70061243,262,17,223
+480,oftalmologia,2009,70075229,107,6,105
+480,oftalmologia,2009,70081921,254,9,240
+480,oftalmologia,2009,70100238,40,4,39
+480,oftalmologia,2009,63317933,204,36,177
+480,oftalmologia,2009,71619132,870,47,799
+480,oftalmologia,2009,79151120,79,12,65
+480,oftalmologia,2009,71623547,50,31,75
+480,oftalmologia,2009,79599124,58,7,43
+480,oftalmologia,2009,80413111,105,3,90
+480,oftalmologia,2009,8231710,144,11,121
+480,oftalmologia,2009,8241424,283,13,275
+480,oftalmologia,2009,8242677,107,1,95
+480,oftalmologia,2009,8290230,44,4,38
+480,oftalmologia,2009,8292191,14,1,15
+480,oftalmologia,2009,8304617,19,1,17
+480,oftalmologia,2009,8306342,134,1,125
+480,oftalmologia,2009,8319342,19,1,19
+480,oftalmologia,2009,8394214,13,1,12
+480,oftalmologia,2009,8715729,100,3,77
+480,oftalmologia,2009,876427,10,2,10
+480,oftalmologia,2009,9078245,29,3,27
+480,oftalmologia,2009,91200696,16,3,13
+480,oftalmologia,2009,93119217,87,4,72
+480,oftalmologia,2009,9510633,76,5,64
+480,oftalmologia,2009,98541227,390,54,343
+480,oftalmologia,2009,98545716,98,13,88
+480,oftalmologia,2009,98546072,56,64,116
+480,oftalmologia,2009,98551957,48,9,49
+480,oftalmologia,2009,98553010,154,16,155
+480,oftalmologia,2009,98555608,115,14,87
+480,oftalmologia,2009,79569352,11,1,11
+480,oftalmologia,2009,79517443,47,3,35
+480,oftalmologia,2009,79427532,69,2,62
+480,oftalmologia,2009,79427510,112,1,102
+480,oftalmologia,2009,71636154,1872,140,1331
+480,oftalmologia,2009,71648746,88,2,84
+480,oftalmologia,2009,71657199,108,5,105
+480,oftalmologia,2009,71658643,28,5,25
+480,oftalmologia,2009,71659844,403,50,293
+480,oftalmologia,2009,71663804,332,5,287
+480,oftalmologia,2009,71669066,165,8,160
+480,oftalmologia,2009,71679167,32,4,31
+480,oftalmologia,2009,71733021,167,6,161
+480,oftalmologia,2009,73075529,66,15,61
+480,oftalmologia,2009,73107484,4,1,4
+480,oftalmologia,2009,71621984,24,2,23
+480,oftalmologia,2009,73117370,212,34,155
+480,oftalmologia,2009,79143059,19,1,18
+480,oftalmologia,2009,79145494,50,7,36
+480,oftalmologia,2009,43733308,559,15,504
+480,oftalmologia,2009,79152005,95,17,80
+480,oftalmologia,2009,79158593,94,17,97
+480,oftalmologia,2009,79159976,9,1,8
+480,oftalmologia,2009,79296604,64,3,49
+480,oftalmologia,2009,79361082,64,2,56
+480,oftalmologia,2009,79368429,10,1,10
+480,oftalmologia,2009,79386863,13,2,10
+480,oftalmologia,2009,79417348,4,1,2
+480,oftalmologia,2009,78687529,20,1,16
+480,oftalmologia,2009,43584720,45,1,41
+480,oftalmologia,2009,70566292,366,29,324
+480,oftalmologia,2009,43505040,119,31,94
+480,oftalmologia,2009,16609461,59,1,56
+480,oftalmologia,2009,16635285,14,2,15
+480,oftalmologia,2009,16640625,77,1,68
+480,oftalmologia,2009,16651789,78,2,66
+480,oftalmologia,2009,16651830,59,19,57
+480,oftalmologia,2009,16654389,229,2,211
+480,oftalmologia,2009,16660994,62,6,54
+480,oftalmologia,2009,16661565,169,16,132
+480,oftalmologia,2009,16664046,127,4,117
+480,oftalmologia,2009,16673547,47,7,41
+480,oftalmologia,2009,16676308,177,10,148
+480,oftalmologia,2009,16604689,38,2,32
+480,oftalmologia,2009,16677009,15,8,15
+480,oftalmologia,2009,16691874,187,10,143
+480,oftalmologia,2009,16764415,54,6,48
+480,oftalmologia,2009,16764825,354,28,290
+480,oftalmologia,2009,16776528,35,5,32
+480,oftalmologia,2009,17038690,54,5,45
+480,oftalmologia,2009,17065305,124,17,108
+480,oftalmologia,2009,17148173,140,8,134
+480,oftalmologia,2009,17179188,21,1,19
+480,oftalmologia,2009,19051338,137,4,86
+480,oftalmologia,2009,43511283,140,8,107
+480,oftalmologia,2009,19123287,25,3,19
+480,oftalmologia,2009,16689608,6,1,6
+480,oftalmologia,2009,16449822,65,7,61
+480,oftalmologia,2009,16357252,115,22,96
+480,oftalmologia,2009,16354058,38,1,32
+480,oftalmologia,2009,10228033,98,8,86
+480,oftalmologia,2009,10222069,21,6,23
+480,oftalmologia,2009,10215242,103,3,95
+480,oftalmologia,2009,10212206,55,3,51
+480,oftalmologia,2009,10240037,148,7,136
+480,oftalmologia,2009,10240457,19,6,22
+480,oftalmologia,2009,10251781,37,2,35
+480,oftalmologia,2009,10254423,117,9,111
+480,oftalmologia,2009,10533776,123,2,113
+480,oftalmologia,2009,11332563,63,2,51
+480,oftalmologia,2009,12113241,30,4,31
+480,oftalmologia,2009,13251266,60,2,56
+480,oftalmologia,2009,13451541,85,7,69
+480,oftalmologia,2009,13451563,19,3,19
+480,oftalmologia,2009,13818142,36,11,23
+480,oftalmologia,2009,14235777,51,8,38
+480,oftalmologia,2009,14883701,100,10,87
+480,oftalmologia,2009,14963956,57,3,45
+480,oftalmologia,2009,14971258,305,4,229
+480,oftalmologia,2009,14974933,122,10,91
+480,oftalmologia,2009,14979120,164,18,149
+480,oftalmologia,2009,14982210,42,1,36
+480,oftalmologia,2009,162336,35,1,34
+480,oftalmologia,2009,16265798,42,1,41
+480,oftalmologia,2009,16268436,74,6,70
+480,oftalmologia,2009,19141127,196,6,172
+480,oftalmologia,2009,19143147,24,14,26
+480,oftalmologia,2009,19073192,20,3,19
+480,oftalmologia,2009,19226691,90,10,77
+480,oftalmologia,2009,32449155,341,12,315
+480,oftalmologia,2009,32459005,93,14,86
+480,oftalmologia,2009,19201699,44,4,33
+480,oftalmologia,2009,32639343,22,9,25
+480,oftalmologia,2009,3323856,93,5,86
+480,oftalmologia,2009,3345775,17,1,15
+480,oftalmologia,2009,3351499,247,18,199
+480,oftalmologia,2009,3558633,270,24,232
+480,oftalmologia,2009,3644688,39,1,45
+480,oftalmologia,2009,38944482,38,1,28
+480,oftalmologia,2009,39686433,79,4,61
+480,oftalmologia,2009,39688611,67,1,53
+480,oftalmologia,2009,39694264,262,5,211
+480,oftalmologia,2009,39777240,25,4,19
+480,oftalmologia,2009,41659883,65,3,48
+480,oftalmologia,2009,42757638,128,4,111
+480,oftalmologia,2009,42824246,98,15,77
+480,oftalmologia,2009,42880777,102,7,86
+480,oftalmologia,2009,42885052,425,35,389
+480,oftalmologia,2009,42974182,194,20,179
+480,oftalmologia,2009,42984021,147,12,119
+480,oftalmologia,2009,42999823,43,3,37
+480,oftalmologia,2009,43015184,8,2,8
+480,oftalmologia,2009,43028441,509,10,460
+480,oftalmologia,2009,43035160,89,2,81
+480,oftalmologia,2009,32447405,131,1,119
+480,oftalmologia,2009,32443441,11,2,12
+480,oftalmologia,2009,32508057,150,12,133
+480,oftalmologia,2009,32434712,36,1,34
+480,oftalmologia,2009,19241388,17,1,17
+480,oftalmologia,2009,19263445,64,2,52
+480,oftalmologia,2009,19267616,12,1,10
+480,oftalmologia,2009,19284256,960,80,833
+480,oftalmologia,2009,19290111,67,3,66
+480,oftalmologia,2009,19335787,47,3,45
+480,oftalmologia,2009,10091171,418,48,375
+480,oftalmologia,2009,19343512,1,1,2
+480,oftalmologia,2009,32436175,46,2,44
+480,oftalmologia,2009,19413336,59,4,57
+480,oftalmologia,2009,22579209,8,3,10
+480,oftalmologia,2009,24329158,70,11,62
+480,oftalmologia,2009,19386707,113,11,67
+480,oftalmologia,2009,2901480,82,1,42
+480,oftalmologia,2009,32429604,105,6,93
+480,oftalmologia,2009,32423635,45,1,44
+480,oftalmologia,2009,3229695,55,1,45
+480,oftalmologia,2009,3228541,82,2,52
+480,oftalmologia,2009,2886049,33,1,29
+480,oftalmologia,2009,32141453,69,18,42
+480,oftalmologia,2009,10232235,93,11,86
+480,oftalmologia,2009,31887469,64,3,47
+480,oftalmologia,2009,31830365,39,4,32
+480,oftalmologia,2009,31290486,44,3,35
+480,oftalmologia,2009,3013956,65,6,63
+480,oftalmologia,2009,29562558,415,5,357
+480,oftalmologia,2009,31905574,67,6,61
+483,oftalmologia cornea y glaucoma,2009,71788281,16,1,15
+485,oftalmologia pediatrica,2009,14320785,467,1,319
+485,oftalmologia pediatrica,2009,41682447,150,9,97
+485,oftalmologia pediatrica,2009,42775683,1355,21,1165
+485,oftalmologia pediatrica,2009,43745436,938,6,815
+485,oftalmologia pediatrica,2009,45456655,352,3,276
+485,oftalmologia pediatrica,2009,52621315,10,1,11
+485,oftalmologia pediatrica,2009,39691595,116,1,99
+486,oftalmologia y retinologia,2009,79143616,33,7,19
+486,oftalmologia y retinologia,2009,79149741,66,9,48
+486,oftalmologia y retinologia,2009,78018571,66,9,42
+486,oftalmologia y retinologia,2009,63494320,13,12,15
+486,oftalmologia y retinologia,2009,60360721,12,3,14
+486,oftalmologia y retinologia,2009,45478880,10,3,8
+491,oncologia clinica,2009,91244635,15,1,8
+491,oncologia clinica,2009,20951497,2,1,4
+513,ortopedia oncologica,2009,71731053,2,1,3
+514,ortopedia y traumatologia,2009,73105939,29,2,28
+514,ortopedia y traumatologia,2009,73089747,22,4,22
+514,ortopedia y traumatologia,2009,73086547,194,8,133
+514,ortopedia y traumatologia,2009,73075925,212,30,164
+514,ortopedia y traumatologia,2009,71695746,22,5,21
+514,ortopedia y traumatologia,2009,71729679,370,142,411
+514,ortopedia y traumatologia,2009,71704341,37,7,22
+514,ortopedia y traumatologia,2009,73111072,35,2,32
+514,ortopedia y traumatologia,2009,71691545,3,1,3
+514,ortopedia y traumatologia,2009,72134079,14,5,17
+514,ortopedia y traumatologia,2009,73122684,89,9,58
+514,ortopedia y traumatologia,2009,7532645,26,1,22
+514,ortopedia y traumatologia,2009,7474665,66,7,51
+514,ortopedia y traumatologia,2009,7508529,119,22,96
+514,ortopedia y traumatologia,2009,71687465,393,29,273
+514,ortopedia y traumatologia,2009,7539084,15,6,16
+514,ortopedia y traumatologia,2009,7542378,30,10,56
+514,ortopedia y traumatologia,2009,7543990,7,1,6
+514,ortopedia y traumatologia,2009,7549309,69,7,60
+514,ortopedia y traumatologia,2009,79141425,72,1,47
+514,ortopedia y traumatologia,2009,79143724,36,3,23
+514,ortopedia y traumatologia,2009,79144227,102,4,55
+514,ortopedia y traumatologia,2009,79147087,51,7,37
+514,ortopedia y traumatologia,2009,7458422,47,3,48
+514,ortopedia y traumatologia,2009,71676499,121,51,143
+514,ortopedia y traumatologia,2009,71644493,43,7,41
+514,ortopedia y traumatologia,2009,71661507,106,10,91
+514,ortopedia y traumatologia,2009,70108250,16,28,64
+514,ortopedia y traumatologia,2009,70114306,39,1,41
+514,ortopedia y traumatologia,2009,70123043,212,38,184
+514,ortopedia y traumatologia,2009,70552348,81,2,65
+514,ortopedia y traumatologia,2009,70554128,74,5,54
+514,ortopedia y traumatologia,2009,70556526,19,1,17
+514,ortopedia y traumatologia,2009,70558482,6,2,8
+514,ortopedia y traumatologia,2009,70559526,695,59,501
+514,ortopedia y traumatologia,2009,70560384,3,298,288
+514,ortopedia y traumatologia,2009,70566464,272,35,303
+514,ortopedia y traumatologia,2009,70569416,78,4,60
+514,ortopedia y traumatologia,2009,70875857,47,3,42
+514,ortopedia y traumatologia,2009,71394225,12,1,7
+514,ortopedia y traumatologia,2009,71578354,33,1,34
+514,ortopedia y traumatologia,2009,71581098,394,28,349
+514,ortopedia y traumatologia,2009,71581985,127,10,93
+514,ortopedia y traumatologia,2009,71594272,47,29,83
+514,ortopedia y traumatologia,2009,71598304,65,10,56
+514,ortopedia y traumatologia,2009,71604631,78,35,107
+514,ortopedia y traumatologia,2009,71610528,83,9,67
+514,ortopedia y traumatologia,2009,71611289,277,33,196
+514,ortopedia y traumatologia,2009,71611576,7,7,12
+514,ortopedia y traumatologia,2009,71620829,46,7,46
+514,ortopedia y traumatologia,2009,79153252,33,2,26
+514,ortopedia y traumatologia,2009,71657198,130,15,106
+514,ortopedia y traumatologia,2009,71671359,1,1,2
+514,ortopedia y traumatologia,2009,79159758,21,4,19
+514,ortopedia y traumatologia,2009,79267937,62,1,38
+514,ortopedia y traumatologia,2009,79235607,48,8,40
+514,ortopedia y traumatologia,2009,85465521,47,2,40
+514,ortopedia y traumatologia,2009,8670598,74,10,58
+514,ortopedia y traumatologia,2009,8690523,150,10,125
+514,ortopedia y traumatologia,2009,8693670,9,1,10
+514,ortopedia y traumatologia,2009,8698094,118,12,83
+514,ortopedia y traumatologia,2009,8709548,4,1,3
+514,ortopedia y traumatologia,2009,8709857,23,8,30
+514,ortopedia y traumatologia,2009,8729936,257,91,252
+514,ortopedia y traumatologia,2009,8740292,4,1,6
+514,ortopedia y traumatologia,2009,88136367,135,26,124
+514,ortopedia y traumatologia,2009,89004608,31,2,25
+514,ortopedia y traumatologia,2009,8533917,166,17,144
+514,ortopedia y traumatologia,2009,9084662,138,13,118
+514,ortopedia y traumatologia,2009,9113982,119,6,94
+514,ortopedia y traumatologia,2009,91222696,16,1,11
+514,ortopedia y traumatologia,2009,91231451,10,2,11
+514,ortopedia y traumatologia,2009,91251552,7,4,9
+514,ortopedia y traumatologia,2009,91254757,46,1,36
+514,ortopedia y traumatologia,2009,9135504,67,4,55
+514,ortopedia y traumatologia,2009,9522764,117,19,77
+514,ortopedia y traumatologia,2009,98546725,51,9,34
+514,ortopedia y traumatologia,2009,98547830,95,13,87
+514,ortopedia y traumatologia,2009,98557440,23,1,15
+514,ortopedia y traumatologia,2009,70103392,106,7,67
+514,ortopedia y traumatologia,2009,9089843,21,24,47
+514,ortopedia y traumatologia,2009,8533914,26,2,22
+514,ortopedia y traumatologia,2009,8346648,3,2,6
+514,ortopedia y traumatologia,2009,8314851,117,171,299
+514,ortopedia y traumatologia,2009,79265496,67,1,38
+514,ortopedia y traumatologia,2009,79288027,9,3,39
+514,ortopedia y traumatologia,2009,79297450,29,2,21
+514,ortopedia y traumatologia,2009,79490734,74,13,58
+514,ortopedia y traumatologia,2009,79506160,209,70,179
+514,ortopedia y traumatologia,2009,79532398,8,1,16
+514,ortopedia y traumatologia,2009,80410490,6,1,7
+514,ortopedia y traumatologia,2009,80418242,96,12,70
+514,ortopedia y traumatologia,2009,8215224,17,1,21
+514,ortopedia y traumatologia,2009,8258813,62,11,60
+514,ortopedia y traumatologia,2009,8262106,249,37,240
+514,ortopedia y traumatologia,2009,8271248,216,16,143
+514,ortopedia y traumatologia,2009,8274223,136,17,131
+514,ortopedia y traumatologia,2009,8278192,113,48,234
+514,ortopedia y traumatologia,2009,8287116,203,14,164
+514,ortopedia y traumatologia,2009,8288281,11,2,38
+514,ortopedia y traumatologia,2009,8288962,253,21,166
+514,ortopedia y traumatologia,2009,8297618,25,130,159
+514,ortopedia y traumatologia,2009,8298447,9,17,20
+514,ortopedia y traumatologia,2009,8302574,164,9,121
+514,ortopedia y traumatologia,2009,8306483,19,59,89
+514,ortopedia y traumatologia,2009,8307507,126,21,130
+514,ortopedia y traumatologia,2009,8307723,197,29,182
+514,ortopedia y traumatologia,2009,8311325,198,29,162
+514,ortopedia y traumatologia,2009,8311710,162,297,483
+514,ortopedia y traumatologia,2009,79234955,87,11,69
+514,ortopedia y traumatologia,2009,70099144,461,23,385
+514,ortopedia y traumatologia,2009,70563708,901,32,576
+514,ortopedia y traumatologia,2009,70094354,86,3,62
+514,ortopedia y traumatologia,2009,14952362,70,1,53
+514,ortopedia y traumatologia,2009,15016396,101,6,99
+514,ortopedia y traumatologia,2009,15251830,41,3,39
+514,ortopedia y traumatologia,2009,15346981,834,65,692
+514,ortopedia y traumatologia,2009,15347848,138,12,110
+514,ortopedia y traumatologia,2009,16218787,65,5,51
+514,ortopedia y traumatologia,2009,16261328,31,1,27
+514,ortopedia y traumatologia,2009,16269674,432,54,322
+514,ortopedia y traumatologia,2009,16270041,83,3,67
+514,ortopedia y traumatologia,2009,16271987,11,2,10
+514,ortopedia y traumatologia,2009,16283450,124,6,103
+514,ortopedia y traumatologia,2009,16353976,29,7,27
+514,ortopedia y traumatologia,2009,16450865,155,30,123
+514,ortopedia y traumatologia,2009,16547684,34,3,35
+514,ortopedia y traumatologia,2009,16604931,91,1,65
+514,ortopedia y traumatologia,2009,16629449,111,2,86
+514,ortopedia y traumatologia,2009,16634689,73,3,65
+514,ortopedia y traumatologia,2009,16643984,80,7,63
+514,ortopedia y traumatologia,2009,16660431,164,7,125
+514,ortopedia y traumatologia,2009,16671269,19,4,21
+514,ortopedia y traumatologia,2009,16684725,37,9,41
+514,ortopedia y traumatologia,2009,16689168,30,45,92
+514,ortopedia y traumatologia,2009,16703018,261,34,171
+514,ortopedia y traumatologia,2009,16714127,7,1,5
+514,ortopedia y traumatologia,2009,16714746,321,23,209
+514,ortopedia y traumatologia,2009,14892113,106,2,86
+514,ortopedia y traumatologia,2009,14889499,16,3,14
+514,ortopedia y traumatologia,2009,14885128,35,4,26
+514,ortopedia y traumatologia,2009,14884199,15,22,33
+514,ortopedia y traumatologia,2009,70095112,107,10,88
+514,ortopedia y traumatologia,2009,10106736,40,10,43
+514,ortopedia y traumatologia,2009,10105100,7,3,7
+514,ortopedia y traumatologia,2009,10086679,159,9,117
+514,ortopedia y traumatologia,2009,10118360,6,1,8
+514,ortopedia y traumatologia,2009,10214934,83,2,52
+514,ortopedia y traumatologia,2009,10217154,58,1,46
+514,ortopedia y traumatologia,2009,10240900,33,9,37
+514,ortopedia y traumatologia,2009,10250389,100,33,140
+514,ortopedia y traumatologia,2009,10260259,87,8,67
+514,ortopedia y traumatologia,2009,10517514,22,2,21
+514,ortopedia y traumatologia,2009,10526579,22,3,15
+514,ortopedia y traumatologia,2009,16732802,102,6,94
+514,ortopedia y traumatologia,2009,11378535,65,5,35
+514,ortopedia y traumatologia,2009,12544071,8,1,7
+514,ortopedia y traumatologia,2009,12544286,99,4,70
+514,ortopedia y traumatologia,2009,12624106,2,1,2
+514,ortopedia y traumatologia,2009,12711556,5,15,24
+514,ortopedia y traumatologia,2009,13446105,19,86,110
+514,ortopedia y traumatologia,2009,13472245,90,5,73
+514,ortopedia y traumatologia,2009,13502843,29,1,25
+514,ortopedia y traumatologia,2009,13834438,26,3,22
+514,ortopedia y traumatologia,2009,13844165,52,10,48
+514,ortopedia y traumatologia,2009,14217113,54,3,42
+514,ortopedia y traumatologia,2009,14268096,70,6,57
+514,ortopedia y traumatologia,2009,14882670,92,3,63
+514,ortopedia y traumatologia,2009,11379811,70,3,42
+514,ortopedia y traumatologia,2009,16740074,48,5,41
+514,ortopedia y traumatologia,2009,12547744,12,1,9
+514,ortopedia y traumatologia,2009,16820564,141,15,104
+514,ortopedia y traumatologia,2009,19495102,14,4,15
+514,ortopedia y traumatologia,2009,247936,99,5,64
+514,ortopedia y traumatologia,2009,3181001,7,2,6
+514,ortopedia y traumatologia,2009,3227076,109,2,79
+514,ortopedia y traumatologia,2009,32427768,80,10,77
+514,ortopedia y traumatologia,2009,3250582,34,8,27
+514,ortopedia y traumatologia,2009,32725287,8,1,6
+514,ortopedia y traumatologia,2009,3695604,142,4,94
+514,ortopedia y traumatologia,2009,4606622,35,1,32
+514,ortopedia y traumatologia,2009,4609621,34,6,30
+514,ortopedia y traumatologia,2009,6007803,24,5,37
+514,ortopedia y traumatologia,2009,6095066,22,2,19
+514,ortopedia y traumatologia,2009,6184213,308,4,268
+514,ortopedia y traumatologia,2009,6265423,72,5,59
+514,ortopedia y traumatologia,2009,6816199,44,4,52
+514,ortopedia y traumatologia,2009,6881288,154,12,124
+514,ortopedia y traumatologia,2009,70030735,269,76,352
+514,ortopedia y traumatologia,2009,70039611,29,2,41
+514,ortopedia y traumatologia,2009,70041775,38,58,185
+514,ortopedia y traumatologia,2009,70074689,696,98,525
+514,ortopedia y traumatologia,2009,70076948,175,13,159
+514,ortopedia y traumatologia,2009,70082495,16,63,92
+514,ortopedia y traumatologia,2009,70093459,56,24,77
+514,ortopedia y traumatologia,2009,70094272,49,1,48
+514,ortopedia y traumatologia,2009,16770896,29,11,32
+514,ortopedia y traumatologia,2009,19492451,14,3,16
+514,ortopedia y traumatologia,2009,19478147,87,1,47
+514,ortopedia y traumatologia,2009,70033583,56,1,50
+514,ortopedia y traumatologia,2009,19458991,14,3,9
+514,ortopedia y traumatologia,2009,17155046,43,2,43
+514,ortopedia y traumatologia,2009,17142491,88,5,59
+514,ortopedia y traumatologia,2009,17194850,15,2,7
+514,ortopedia y traumatologia,2009,18775468,24,2,21
+514,ortopedia y traumatologia,2009,19050963,11,2,9
+514,ortopedia y traumatologia,2009,19469498,179,15,132
+514,ortopedia y traumatologia,2009,19066018,116,8,69
+514,ortopedia y traumatologia,2009,19067267,65,3,42
+514,ortopedia y traumatologia,2009,17134099,79,6,40
+514,ortopedia y traumatologia,2009,19078799,75,2,55
+514,ortopedia y traumatologia,2009,19109249,50,3,32
+514,ortopedia y traumatologia,2009,19144198,59,1,44
+514,ortopedia y traumatologia,2009,19145333,61,5,36
+514,ortopedia y traumatologia,2009,19159309,56,1,38
+514,ortopedia y traumatologia,2009,17018849,47,42,75
+514,ortopedia y traumatologia,2009,19186921,38,1,32
+514,ortopedia y traumatologia,2009,19190741,20,1,15
+514,ortopedia y traumatologia,2009,19249648,166,9,81
+514,ortopedia y traumatologia,2009,19313636,15,2,43
+514,ortopedia y traumatologia,2009,19331845,12,1,10
+514,ortopedia y traumatologia,2009,19333825,18,3,21
+514,ortopedia y traumatologia,2009,19389069,50,4,61
+514,ortopedia y traumatologia,2009,19404463,140,31,138
+514,ortopedia y traumatologia,2009,19442892,5,2,6
+514,ortopedia y traumatologia,2009,19449431,22,3,17
+514,ortopedia y traumatologia,2009,17164820,136,8,78
+515,ortopedia y traumatologia pediatrica,2009,8717895,344,11,270
+515,ortopedia y traumatologia pediatrica,2009,71577078,87,2,51
+515,ortopedia y traumatologia pediatrica,2009,71664405,184,37,186
+515,ortopedia y traumatologia pediatrica,2009,19165778,278,7,165
+515,ortopedia y traumatologia pediatrica,2009,79149961,99,2,63
+516,ortopedia y cirugia artroscopica,2009,16647225,100,30,66
+516,ortopedia y cirugia artroscopica,2009,16673063,92,14,68
+516,ortopedia y cirugia artroscopica,2009,16620693,192,19,133
+521,otorrinolaringologia,2009,70075635,110,10,95
+521,otorrinolaringologia,2009,70086438,258,11,232
+521,otorrinolaringologia,2009,70109602,230,54,218
+521,otorrinolaringologia,2009,70120017,79,13,86
+521,otorrinolaringologia,2009,70120709,759,113,587
+521,otorrinolaringologia,2009,70546950,84,10,73
+521,otorrinolaringologia,2009,70551501,237,22,215
+521,otorrinolaringologia,2009,71611032,36,4,34
+521,otorrinolaringologia,2009,70560405,759,174,711
+521,otorrinolaringologia,2009,70566110,351,18,291
+521,otorrinolaringologia,2009,71578575,202,28,173
+521,otorrinolaringologia,2009,71582417,239,17,205
+521,otorrinolaringologia,2009,71591428,16,2,15
+521,otorrinolaringologia,2009,71586781,332,24,287
+521,otorrinolaringologia,2009,70071733,252,14,228
+521,otorrinolaringologia,2009,70558503,151,6,128
+521,otorrinolaringologia,2009,70052995,134,11,124
+521,otorrinolaringologia,2009,41578140,82,1,68
+521,otorrinolaringologia,2009,6881255,114,9,91
+521,otorrinolaringologia,2009,39781594,143,4,96
+521,otorrinolaringologia,2009,71652345,59,5,54
+521,otorrinolaringologia,2009,41508640,39,3,33
+521,otorrinolaringologia,2009,41620983,8,1,8
+521,otorrinolaringologia,2009,42878937,54,13,66
+521,otorrinolaringologia,2009,42894675,254,25,215
+521,otorrinolaringologia,2009,42899305,532,57,377
+521,otorrinolaringologia,2009,42972069,146,13,129
+521,otorrinolaringologia,2009,43092070,804,125,657
+521,otorrinolaringologia,2009,45487079,71,3,46
+521,otorrinolaringologia,2009,6054076,120,12,119
+521,otorrinolaringologia,2009,63321202,24,2,24
+521,otorrinolaringologia,2009,6505866,3,1,4
+521,otorrinolaringologia,2009,6783576,19,2,19
+521,otorrinolaringologia,2009,6813373,139,5,116
+521,otorrinolaringologia,2009,70043155,181,13,156
+521,otorrinolaringologia,2009,71665339,327,59,314
+521,otorrinolaringologia,2009,9089692,156,11,128
+521,otorrinolaringologia,2009,71694702,809,106,641
+521,otorrinolaringologia,2009,8232216,14,1,14
+521,otorrinolaringologia,2009,8247695,26,5,29
+521,otorrinolaringologia,2009,8250150,196,2,174
+521,otorrinolaringologia,2009,8270641,90,6,69
+521,otorrinolaringologia,2009,8279318,369,47,381
+521,otorrinolaringologia,2009,8295294,21,3,20
+521,otorrinolaringologia,2009,8315190,133,9,122
+521,otorrinolaringologia,2009,8231328,8,1,7
+521,otorrinolaringologia,2009,8683220,371,25,233
+521,otorrinolaringologia,2009,9090774,2,1,2
+521,otorrinolaringologia,2009,91240842,39,5,40
+521,otorrinolaringologia,2009,92523366,97,6,75
+521,otorrinolaringologia,2009,98541476,78,20,88
+521,otorrinolaringologia,2009,98550356,62,12,28
+521,otorrinolaringologia,2009,98555697,46,4,39
+521,otorrinolaringologia,2009,39167677,465,83,410
+521,otorrinolaringologia,2009,8745947,48,3,35
+521,otorrinolaringologia,2009,71682571,71,8,66
+521,otorrinolaringologia,2009,8212144,206,4,170
+521,otorrinolaringologia,2009,80409255,17,2,17
+521,otorrinolaringologia,2009,71740911,21,1,20
+521,otorrinolaringologia,2009,72137692,105,27,84
+521,otorrinolaringologia,2009,72216677,531,28,328
+521,otorrinolaringologia,2009,7225201,15,3,18
+521,otorrinolaringologia,2009,73072496,28,5,28
+521,otorrinolaringologia,2009,73093340,28,6,27
+521,otorrinolaringologia,2009,73121273,30,4,21
+521,otorrinolaringologia,2009,80470182,66,1,53
+521,otorrinolaringologia,2009,7527574,70,6,62
+521,otorrinolaringologia,2009,79147713,24,2,16
+521,otorrinolaringologia,2009,79147964,63,4,48
+521,otorrinolaringologia,2009,79159138,123,4,76
+521,otorrinolaringologia,2009,79367693,60,3,48
+521,otorrinolaringologia,2009,79521534,62,1,58
+521,otorrinolaringologia,2009,79542488,41,5,30
+521,otorrinolaringologia,2009,80407949,70,3,48
+521,otorrinolaringologia,2009,7554943,36,5,35
+521,otorrinolaringologia,2009,39011873,21,1,14
+521,otorrinolaringologia,2009,42867906,639,72,500
+521,otorrinolaringologia,2009,34530736,7,2,8
+521,otorrinolaringologia,2009,14881210,115,18,106
+521,otorrinolaringologia,2009,14932910,139,8,111
+521,otorrinolaringologia,2009,14944054,255,17,200
+521,otorrinolaringologia,2009,14944536,140,21,111
+521,otorrinolaringologia,2009,14969604,17,2,14
+521,otorrinolaringologia,2009,14969788,36,3,31
+521,otorrinolaringologia,2009,15662544,75,7,66
+521,otorrinolaringologia,2009,16211474,75,1,65
+521,otorrinolaringologia,2009,16256354,39,1,28
+521,otorrinolaringologia,2009,16270178,5,1,6
+521,otorrinolaringologia,2009,16349747,44,2,26
+521,otorrinolaringologia,2009,16452099,50,6,47
+521,otorrinolaringologia,2009,16581904,42,2,36
+521,otorrinolaringologia,2009,16584295,53,5,34
+521,otorrinolaringologia,2009,16591789,105,11,86
+521,otorrinolaringologia,2009,16606373,214,8,184
+521,otorrinolaringologia,2009,16608834,27,16,33
+521,otorrinolaringologia,2009,14442260,9,3,7
+521,otorrinolaringologia,2009,16610213,67,2,56
+521,otorrinolaringologia,2009,14436380,109,9,95
+521,otorrinolaringologia,2009,13893464,52,10,42
+521,otorrinolaringologia,2009,3826141,162,17,119
+521,otorrinolaringologia,2009,10247677,35,2,34
+521,otorrinolaringologia,2009,10244263,59,5,51
+521,otorrinolaringologia,2009,10242845,15,4,17
+521,otorrinolaringologia,2009,10214388,269,17,201
+521,otorrinolaringologia,2009,10064284,79,3,78
+521,otorrinolaringologia,2009,10479721,125,11,75
+521,otorrinolaringologia,2009,10519270,6,1,6
+521,otorrinolaringologia,2009,10536637,53,3,47
+521,otorrinolaringologia,2009,10543283,59,2,45
+521,otorrinolaringologia,2009,13005629,2,1,3
+521,otorrinolaringologia,2009,13445998,35,3,31
+521,otorrinolaringologia,2009,13448218,115,2,97
+521,otorrinolaringologia,2009,13448326,339,22,276
+521,otorrinolaringologia,2009,13805040,93,1,111
+521,otorrinolaringologia,2009,13805823,39,4,37
+521,otorrinolaringologia,2009,13844240,86,5,74
+521,otorrinolaringologia,2009,14219766,84,4,74
+521,otorrinolaringologia,2009,16612802,119,16,104
+521,otorrinolaringologia,2009,10875130,8,1,9
+521,otorrinolaringologia,2009,16622552,55,9,40
+521,otorrinolaringologia,2009,2889108,35,3,34
+521,otorrinolaringologia,2009,29621043,448,39,373
+521,otorrinolaringologia,2009,31522828,88,8,81
+521,otorrinolaringologia,2009,3181878,12,1,9
+521,otorrinolaringologia,2009,3182055,9,6,10
+521,otorrinolaringologia,2009,31841044,380,32,266
+521,otorrinolaringologia,2009,31889409,79,6,59
+521,otorrinolaringologia,2009,2774685,102,51,115
+521,otorrinolaringologia,2009,3341797,49,2,40
+521,otorrinolaringologia,2009,31915358,547,40,443
+521,otorrinolaringologia,2009,31929821,3,1,4
+521,otorrinolaringologia,2009,31939319,10,2,13
+521,otorrinolaringologia,2009,16612946,117,32,107
+521,otorrinolaringologia,2009,32692249,13,2,14
+521,otorrinolaringologia,2009,32462149,75,8,65
+521,otorrinolaringologia,2009,32076882,279,29,220
+521,otorrinolaringologia,2009,31912577,47,4,43
+521,otorrinolaringologia,2009,32018526,172,10,148
+521,otorrinolaringologia,2009,22578524,37,1,30
+521,otorrinolaringologia,2009,21068926,87,1,40
+521,otorrinolaringologia,2009,16624201,75,9,70
+521,otorrinolaringologia,2009,16638678,85,19,74
+521,otorrinolaringologia,2009,16656567,72,10,70
+521,otorrinolaringologia,2009,16666643,22,3,28
+521,otorrinolaringologia,2009,16738854,40,3,35
+521,otorrinolaringologia,2009,16740274,618,125,504
+521,otorrinolaringologia,2009,16742606,2,3,4
+521,otorrinolaringologia,2009,22057318,77,2,70
+521,otorrinolaringologia,2009,16755020,8,1,10
+521,otorrinolaringologia,2009,17023550,84,3,39
+521,otorrinolaringologia,2009,17098589,68,19,71
+521,otorrinolaringologia,2009,17145536,63,4,47
+521,otorrinolaringologia,2009,17170847,11,1,10
+521,otorrinolaringologia,2009,19124380,54,2,51
+521,otorrinolaringologia,2009,19142524,17,3,13
+521,otorrinolaringologia,2009,19230663,16,1,14
+521,otorrinolaringologia,2009,19263366,93,8,75
+521,otorrinolaringologia,2009,16778290,50,9,43
+521,otorrinolaringologia,2009,31959376,28,2,27
+525,otorrinolaringologia pediatrica,2009,16635222,70,4,59
+525,otorrinolaringologia pediatrica,2009,19373129,503,14,359
+550,pediatria,2009,12121569,65,1,25
+550,pediatria,2009,8696072,956,2,339
+550,pediatria,2009,17158839,74,2,25
+620,reumatologia,2009,8676552,25,2,14
+620,reumatologia,2009,70034313,261,1,163
+620,reumatologia,2009,31234538,35,1,21
+620,reumatologia,2009,8721390,71,3,35
+750,urologia,2009,73078860,36,6,33
+750,urologia,2009,70558775,152,5,130
+750,urologia,2009,73105479,77,1,61
+750,urologia,2009,7549332,40,5,28
+750,urologia,2009,79141814,47,1,43
+750,urologia,2009,79140552,16,1,15
+750,urologia,2009,79148977,62,1,51
+750,urologia,2009,79155439,8,2,9
+750,urologia,2009,79284894,51,2,52
+750,urologia,2009,79115427,27,3,18
+750,urologia,2009,72181750,6,1,4
+750,urologia,2009,71717803,90,11,76
+750,urologia,2009,72136805,4,2,8
+750,urologia,2009,71664082,59,7,49
+750,urologia,2009,71622810,232,8,143
+750,urologia,2009,71616906,354,52,446
+750,urologia,2009,71609421,187,8,158
+750,urologia,2009,71603457,124,17,111
+750,urologia,2009,71588894,14,1,14
+750,urologia,2009,71587495,22,5,24
+750,urologia,2009,79299546,31,3,23
+750,urologia,2009,71332783,13,3,14
+750,urologia,2009,70562541,123,8,103
+750,urologia,2009,72137462,24,3,21
+750,urologia,2009,79372480,21,1,17
+750,urologia,2009,98553115,73,4,60
+750,urologia,2009,80410519,106,32,109
+750,urologia,2009,70555609,146,9,110
+750,urologia,2009,98569104,94,8,75
+750,urologia,2009,98559946,60,10,68
+750,urologia,2009,98550144,544,102,500
+750,urologia,2009,98548456,126,9,112
+750,urologia,2009,98541909,114,10,108
+750,urologia,2009,92500124,11,2,11
+750,urologia,2009,91202333,11,2,9
+750,urologia,2009,9080577,25,3,22
+750,urologia,2009,9079797,42,3,35
+750,urologia,2009,8754867,91,10,71
+750,urologia,2009,8751040,45,4,34
+750,urologia,2009,8718178,83,14,79
+750,urologia,2009,85449133,23,1,15
+750,urologia,2009,8533582,330,10,265
+750,urologia,2009,8309492,148,6,161
+750,urologia,2009,8305704,50,4,46
+750,urologia,2009,8285702,205,12,162
+750,urologia,2009,8274404,71,2,65
+750,urologia,2009,8257928,45,1,43
+750,urologia,2009,8217636,145,2,109
+750,urologia,2009,80419892,88,2,72
+750,urologia,2009,80412864,40,1,26
+750,urologia,2009,80407798,17,1,16
+750,urologia,2009,70551564,320,7,295
+750,urologia,2009,16693137,205,43,166
+750,urologia,2009,70089311,86,3,84
+750,urologia,2009,16767114,110,36,103
+750,urologia,2009,16761285,4,1,4
+750,urologia,2009,70125975,191,26,200
+750,urologia,2009,16733401,9,2,9
+750,urologia,2009,16705450,44,13,38
+750,urologia,2009,16697093,52,8,43
+750,urologia,2009,16665687,15,4,13
+750,urologia,2009,16604884,134,32,115
+750,urologia,2009,16580519,23,6,19
+750,urologia,2009,162383,48,2,34
+750,urologia,2009,15029675,22,4,18
+750,urologia,2009,14883751,58,6,50
+750,urologia,2009,17077720,56,1,39
+750,urologia,2009,14883153,320,66,232
+750,urologia,2009,13804574,27,3,24
+750,urologia,2009,13443141,65,2,67
+750,urologia,2009,13374699,37,1,26
+750,urologia,2009,12130892,78,1,59
+750,urologia,2009,12124822,31,2,24
+750,urologia,2009,12123643,47,2,47
+750,urologia,2009,10892582,6,1,6
+750,urologia,2009,10282343,45,4,41
+750,urologia,2009,10256529,66,5,56
+750,urologia,2009,10254091,53,4,44
+750,urologia,2009,10126091,57,9,47
+750,urologia,2009,10074303,148,5,112
+750,urologia,2009,14240642,16,1,13
+750,urologia,2009,17166653,48,2,22
+750,urologia,2009,16748097,29,6,37
+750,urologia,2009,19063801,33,2,17
+750,urologia,2009,70088606,372,6,338
+750,urologia,2009,70075536,158,17,129
+750,urologia,2009,6878770,18,3,18
+750,urologia,2009,6820980,34,4,30
+750,urologia,2009,6582034,88,12,74
+750,urologia,2009,6496101,168,19,141
+750,urologia,2009,5539770,25,9,20
+750,urologia,2009,52647543,8,1,7
+750,urologia,2009,19051270,90,3,52
+750,urologia,2009,42969686,248,16,197
+750,urologia,2009,3741369,10,3,11
+750,urologia,2009,37272,49,1,46
+750,urologia,2009,3350514,161,10,134
+750,urologia,2009,438185,137,4,90
+750,urologia,2009,2903885,13,6,13
+750,urologia,2009,19081089,47,6,41
+750,urologia,2009,19111707,33,1,23
+750,urologia,2009,19124189,73,1,47
+750,urologia,2009,3181349,7,4,8
+750,urologia,2009,19381190,135,10,121
+750,urologia,2009,19260343,120,5,82
+750,urologia,2009,19445623,28,4,26
+750,urologia,2009,19455257,12,3,13
+750,urologia,2009,19455879,23,9,24
+750,urologia,2009,19459457,18,1,18
+750,urologia,2009,19475459,5,19,107
+750,urologia,2009,19403078,20,4,23
+773,inmunologia pediatria,2009,33156145,3,1,7
+775,urologia pediatrica,2009,79557883,46,5,32
+775,urologia pediatrica,2009,8731099,16,5,25
+775,urologia pediatrica,2009,92496697,22,6,19
+999,medicina general,2009,10240211,192,1,85
+999,medicina general,2009,98541610,95,1,54
+999,medicina general,2009,91480939,58,2,48
+999,medicina general,2009,4590777,1,1,2
+999,medicina general,2009,41797433,68,25,48
+999,medicina general,2009,10272829,92,1,59
